@@ -280,5 +280,5 @@ defaults:
       comments: true # true
       share: true
       related: true
-      show_date: false
+      show_date: true
 
