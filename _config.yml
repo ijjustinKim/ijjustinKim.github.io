@@ -274,8 +274,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true # showing estimated reading time
+      author_profile: false
+      read_time: false # showing estimated reading time
       comments: true # true
       share: true
       related: true
