@@ -13,5 +13,8 @@ This is my own list of papers, I have read or will be reading in the future. Vas
 - Semantic Segmentation
 - Instance Segmentation
 - GAN
-- 
+
+# Papers
+- SRN
+- Transformer
 <!-- to change the font size, look at _page.scss, then search .page__content, line 110 - 112 --> 
