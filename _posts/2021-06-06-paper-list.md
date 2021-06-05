@@ -1,6 +1,6 @@
 ---
 title : "Paper List"
-excerpt: "papers I will be/have read"
+excerpt: "papers I will/have read"
 toc: true
 header:
   overlay_image : /assets/images/overlay_image.jpg
