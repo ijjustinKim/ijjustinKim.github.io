@@ -3,7 +3,7 @@ title : "[Review] Attention Is All You Need"
 excerpt: "Beginning of the Era of Attention Module"
 toc: true
 header:
-  overlay_image : /assets/images/overlay_image.jpg
+  overlay_image : /assets/images/overlay_test.jpg
 ---
 # Intuition
 - 언어 모델링과 기계번역 분야에서 RNN-based model들이 우위를 차지하고 있었으나, 모델 특성상 병렬처리가 불가능하다는 단점이 존재함  <br>
