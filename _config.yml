@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Justin Kim"
   avatar           : "/assets/images/avatar_test.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Future ML Engineer with a genuine passion for deep learning and computer vision"
+  bio              : "Future ML Engineer with a genuine passion for deep learning"
   location         : "Toronto, Canada"
   email            :
   links:
