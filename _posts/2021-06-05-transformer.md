@@ -6,8 +6,8 @@ header:
   overlay_image : /assets/images/overlay_image.jpg
 ---
 # Intuition
-- 언어 모델링과 기계번역 분야에서 RNN-based model들이 우위를 차지하고 있었으나, 동시에 병렬처리가 불가능하다는 단점이 존재함  <br>
-- 이전 몸델들중 attention mechanism을 부분적으로 사용한 모델이 존재하였음 <br>
+- 언어 모델링과 기계번역 분야에서 RNN-based model들이 우위를 차지하고 있었으나, 모델 특성상 병렬처리가 불가능하다는 단점이 존재함  <br>
+- 이전 모델들중 attention mechanism을 부분적으로 사용한 모델이 존재하였음 <br>
 &#8594; 따라서, 저자들은 attention module만을 사용하여 병렬처리가 가능하도록하여 성능향상과 학습시간 단축을 이루는 모델을 재시함   
 
 # Model Architecture
