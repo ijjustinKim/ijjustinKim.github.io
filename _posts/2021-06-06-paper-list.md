@@ -6,13 +6,7 @@ header:
   overlay_image : /assets/images/overlay_test.jpg
 ---
 
-This is my own list of papers, I have read or will be reading in the future. Vast majority of them will be in the area of Computer Vision since that is where my interest lies. Anything on this page, may get added or removed over time. 
-# Tasks
-- Image Classification
-- Object Detection
-- Semantic Segmentation
-- Instance Segmentation
-- GAN
+This is my own list of papers, I have read or will be reading in the future. Anything on this page, may get added or removed over time. 
 
 # Papers Read
 - [SRN](/SRN/)
