@@ -9,7 +9,7 @@ header:
 This is my own list of papers, I have read or will be reading in the future. Anything on this page, may get added or removed over time. 
 
 # Papers Read
-- [SRN](/SRN/)
+- [SRN](/srn/)
 - [Transformer](/transformer/)
 
 # Papers coming up soon
