@@ -9,11 +9,7 @@ header:
 <div align="center"> 
 <h1>Hi there, I am Justin Kim</h1>
 <p >
-	<span> :school: Education: Honours Bachelor Science at the University of Toronto(expected)</span>
-	<span> :books: Major: Statistical Sciences</span>
-<!--
 I am a student at the University of Toronto studying Statistical Sciences, currently in my last year. I love reading research papers and learning new things - sometimes, they even get me goosebumps.
--->
 </p>
 
 <h1>What are my skills?</h1>
