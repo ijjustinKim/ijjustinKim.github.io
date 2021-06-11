@@ -11,6 +11,7 @@ This is my own list of papers, I have read or will be reading in the future. Any
 # Papers Read
 - [SRN](/srn/)
 - [Transformer](/transformer/)
+- [RARE](/rare/)
 
 # Papers coming up soon
 - BERT
