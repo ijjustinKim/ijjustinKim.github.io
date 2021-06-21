@@ -34,7 +34,7 @@ I am a student at the University of Toronto studying Statistical Sciences, curre
 		<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 	</a>
 <h1> Resume</h1>
-	<a href="https://drive.google.com/file/d/1kZUdVREh1v-jL7CncDyyu8gG1xqcn2vd/view?usp=sharing">
+	<a href="https://drive.google.com/file/d/1ouhg0nWuSyYhuMnULoWu02N8syR3LTP8/view?usp=sharing">
 		<img alt="Resume" src="https://img.shields.io/badge/-Resume-orange" />
 	</a>
 </div>
