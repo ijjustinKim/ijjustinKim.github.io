@@ -33,7 +33,12 @@ I am a student at the University of Toronto studying Statistical Sciences, curre
 	<a href="https://www.facebook.com/ijjustin99">
 		<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 	</a>
+<h1> Resume</h1>
+	<a href="https://drive.google.com/file/d/1kZUdVREh1v-jL7CncDyyu8gG1xqcn2vd/view?usp=sharing">
+		<img alt="Resume" src="https://img.shields.io/badge/-Resume-orange" />
+	</a>
 </div>
+
 <!-- 
 Thanks to
 https://shields.io/#styles and 
