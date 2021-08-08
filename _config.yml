@@ -1,24 +1,23 @@
-site: Gesko
-title: Gesko
-description: >-
-  just a minimalist, personal blog
+site: Justin Kim
+title: Justin Kim
+description: placeholder description
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/ijjustinKim # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
-  bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
+  name: Justin Kim
+  bio: placeholder bio
+  username: ijjustinKim # general username
+  github: ijjustinKim # github username
+  twitter:  # twitter username
+  email: ijjustin.kim@gmail.com # email adress
 
 # URL settings
 url: "https://powex.ml" #
-baseurl: "/Gesko" # leave blank if not wishd
+baseurl: "/" # leave blank if not wishd
 permalink: "https://powex.ml/Gesko/"
 permalink: pretty 
 
